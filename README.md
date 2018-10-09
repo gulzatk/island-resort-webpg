@@ -5,6 +5,7 @@
 ## Description
 _This web page is about a fancy island resort._
 (http://leilanil.github.io/island-resort-website)
+(http://gulzatk.github.io/island-resort-webpg)
 
 ## Contacts
 _gulzat.karimova@gmail.com
