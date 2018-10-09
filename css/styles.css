@@ -1,7 +1,18 @@
 p {
   font-size: 16px;
   font-style: normal;
-  color: Green;
+  color: red;
   font-family: sans-serif;
 
+}
+h1 {
+  font-family: sans-serif;
+  color: darkturquoise;
+}
+a {
+  color: darkturquoise;
+  font-family: sans-serif;
+}
+a:visited {
+  color: teal;
 }
